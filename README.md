@@ -23,6 +23,7 @@ My name is Jennifer Noinaj (noy-NAH), and I go by Jenn. I'm located in Chicago! 
 * **Systems Thinking:** Designing the "behind-the-scenes" processes that make the front-end experience seamless for borrowers.
 
 🚀 **Beyond the Pixels**
+
 I’m big on shaping the culture behind the work and a firm believer that healthy teams make better products. I help teams evolve from the 'waterfall' mindset to agile, cross-functional collaboration. Whether it's upskilling staff or maturing design practices, I love building the "machine that builds the product." 
 
 🛠 **My Toolkit**
